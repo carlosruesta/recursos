@@ -1,3 +1,3 @@
-## Recursos da WEB
+# Recursos da WEB
 
-# APIs públicas
+## APIs públicas
